@@ -12,7 +12,7 @@ import pop
 //Default values
 private let defaultCountOfVisibleCards = 3
 private let defaultBackgroundCardsTopMargin: CGFloat = 0.0
-private let defaultBackgroundCardsScalePercent: CGFloat = 0.95
+private let defaultBackgroundCardsScalePercent: CGFloat = 1
 private let defaultBackgroundCardsLeftMargin: CGFloat = 8.0
 private let defaultBackgroundCardFrameAnimationDuration: TimeInterval = 0.2
 
